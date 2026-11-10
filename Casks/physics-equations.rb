@@ -6,8 +6,7 @@ cask "physics-equations" do
   # because the project repository is private and Homebrew downloads
   # anonymously. `verified` is what tells the audit that this github.com path
   # is a trusted source for software whose homepage is on another domain.
-  url "https://github.com/prabasiva/homebrew-tap/releases/download/v#{version}/PhysicsEquations-#{version}.zip",
-      verified: "github.com/prabasiva/homebrew-tap/"
+  url "https://github.com/prabasiva/homebrew-tap/releases/download/v#{version}/PhysicsEquations-#{version}.zip"
   name "Physics Equations"
   desc "Screen saver typesetting 160 physics and spacecraft engineering equations"
   homepage "https://prabasiva.ai/"
