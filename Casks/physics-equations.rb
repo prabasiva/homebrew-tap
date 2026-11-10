@@ -1,6 +1,6 @@
 cask "physics-equations" do
   version "1.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "104030a016c37bc2bc4516ce6b9027cbeeb29c643f6ee5edce7118d79c594804"
 
   # The artifacts live on the tap's own releases rather than the project's,
   # because the project repository is private and Homebrew downloads
